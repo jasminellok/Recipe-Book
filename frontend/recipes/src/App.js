@@ -1,7 +1,10 @@
+import Recipe from "./components/Recipe";
 
 function App() {
   return (
-    <div>hello :)</div>
+    <div>
+      <Recipe/>
+    </div>
   );
 }
 
